@@ -6,10 +6,14 @@ The organization of isochores into high-level chromosome superstructures has bee
 
 On this website, you can find the coordinates of the isochores predicted by IsoFinder (https://github.com/JoseL-Oliver/isofinder) in several mammal assemblies:
 
- 1. Human complete gap-free genome obtained by the Telomere-to-Telomere (T2T) consortium [6]
- 2. Human hg19
- 3. Chimp panTro4
- 4. 
+ - Human complete gap-free genome obtained by the Telomere-to-Telomere (T2T) consortium [6]
+ - Human hg19
+ - Chimp panTro4
+ - Gorilla gorGor3
+ - Orangutan ponAbe2
+ - Rhesus rheMac3
+ - Mouse mm10
+ - rat rn5 
 
 ### References
 
