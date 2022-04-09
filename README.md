@@ -4,7 +4,12 @@ The genomes of warm-blooded vertebrates are made up of isochores, long DNA segme
 
 The organization of isochores into high-level chromosome superstructures has been shown [5]. Every human chromosome seems composed of a few huge segments (~ 10 Mbp) of relatively homogeneous G+C content, which become the largest compositional organization of the genome.
 
-On this website, you can find the coordinates of the isochores predicted by IsoFinder (https://github.com/JoseL-Oliver/isofinder) in several human assemblies, including the recent complete gap-free human genomes obtained by the Telomere-to-Telomere (T2T) consortium [6]:
+On this website, you can find the coordinates of the isochores predicted by IsoFinder (https://github.com/JoseL-Oliver/isofinder) in several mammal assemblies:
+
+ 1. Human complete gap-free genome obtained by the Telomere-to-Telomere (T2T) consortium [6]
+ 2. Human hg19
+ 3. Chimp panTro4
+ 4. 
 
 ### References
 
