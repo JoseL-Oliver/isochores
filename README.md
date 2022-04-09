@@ -9,11 +9,11 @@ On this website, you can find the coordinates of the isochores predicted by IsoF
  - [Human complete gap-free T2T genome](https://github.com/JoseL-Oliver/isochores/tree/main/T2T-CHM13)
  - [Human hg19](https://genome.ucsc.edu/s/oliver/hg19)
  - [Chimp panTro4](https://genome.ucsc.edu/s/oliver/panTro4)
- - Gorilla gorGor3
- - Orangutan ponAbe2
- - Rhesus rheMac3
- - Mouse mm10
- - rat rn5 
+ - [Gorilla gorGor3](https://genome.ucsc.edu/s/oliver/gorGor3)
+ - [Orangutan ponAbe2](https://genome.ucsc.edu/s/oliver/ponAbe2)
+ - [Rhesus rheMac3](https://genome.ucsc.edu/s/oliver/rheMac3)
+ - [Mouse mm10](https://genome.ucsc.edu/s/oliver/mm10)
+ - [rat rn5](https://genome.ucsc.edu/s/oliver/rn5)
 
 ### References
 
