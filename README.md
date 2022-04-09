@@ -6,8 +6,6 @@ The organization of isochores into high-level chromosome superstructures has bee
 
 On this website, you can find the coordinates of the isochores predicted by IsoFinder (https://github.com/JoseL-Oliver/isofinder) in several human assemblies, including the recent complete gap-free human genomes obtained by the Telomere-to-Telomere (T2T) consortium [6]:
 
-Isochores T2T-CHM13: (https://github.com/JoseL-Oliver/isochores/tree/main/T2T-CHM13)
-
 ### References
 
 [1] Bernardi,G., Olofson,B., Filipski,J., Zerial,M., Salinas,J., Cuny,G., Meunier-Rotival,M. and Rodier,F. (1985) The mosaic genome of warm-blooded vertebrates. Science, 228, 953–958.
