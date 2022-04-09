@@ -1,4 +1,5 @@
-## Isochores predicted by [IsoFinder](https://github.com/JoseL-Oliver/isofinder " target="_blank")
+## Isochores predicted by <a href="https://github.com/JoseL-Oliver/isofinder" target="_blank">IsoFinder</a>
+
 
 The genomes of warm-blooded vertebrates are made up of isochores, long DNA segments fairly homogeneous in G+C which were first revealed by analytical ultracentrifugation of bulk DNA [1]. The algorithm IsoFinder [2] is able to predict isochores at the sequence level. Most of the IsoFinder isochores show correlation with biological features such as gene density, SINE and LINE densities, recombination rate or SNP variability. The reliability of this algorithm in predicting isochore-like regions at the sequence level has been established through the analysis of large-scale genome patchiness by an independent method: the analysis of the deviations in the power-law behavior of long-range correlations [3,4].
 
