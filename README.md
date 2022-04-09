@@ -31,5 +31,3 @@ http://dx.doi.org/10.1140/epjb/e2012-20969-5
 [5] Carpena P, Oliver JL, Hackenberg M, Coronado AV, Barturen G, Bernaola-Galván, P. 2011.
 High-level organization of isochores into gigantic superstructures in the human genome. Physical Review E 83: 031908 (1-7)
 http://dx.doi.org/10.1103/PhysRevE.83.031908
-
-[6] Nurk S, Koren S, Rhie A, Rautiainen M, Bzikadze A et. al. (2022) The complete sequence of a human genome (2022). Science 376, pp: 44-53, DOI: 10.1126/science.abj6987
